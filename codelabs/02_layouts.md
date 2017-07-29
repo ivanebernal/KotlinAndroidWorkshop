@@ -36,8 +36,8 @@ We'll focus on text for now. Go there and copy the following:
         android:id="@+id/contact_list"
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 
 </LinearLayout>
 ```

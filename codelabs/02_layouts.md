@@ -80,7 +80,7 @@ on the list. We will call these files "View Holders."
 ## Creating a View Holder
 We'll now create a new XML file. Right-click the `layout` folder on the left of the screen and select __New__>__Layout resource file__.
 
-<a href="https://ibb.co/evHJpk"><img src="https://preview.ibb.co/jKNjUk/Screen_Shot_2017_07_28_at_11_04_45_PM.png" alt="Screen_Shot_2017_07_28_at_11_04_45_PM" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>para ver fotos</a><br />
+<a href="https://ibb.co/evHJpk"><img src="https://preview.ibb.co/jKNjUk/Screen_Shot_2017_07_28_at_11_04_45_PM.png" alt="Screen_Shot_2017_07_28_at_11_04_45_PM" border="0"></a><br />
 
 We'll just change the Root element to `android.support.constraint.ConstraintLayout` and name the file `holder_contact`. 
 I personally use form holder_<object>, activity_<name>, fragment_<name> to keep my `layout` folder organized, 

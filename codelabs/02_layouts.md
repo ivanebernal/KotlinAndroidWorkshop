@@ -112,3 +112,5 @@ to know more. You can also ask me!
 At the end, the `holder_contact` layout will look something like this:
 
 <a href="https://imgbb.com/"><img src="https://image.ibb.co/kyvopk/Screen_Shot_2017_07_28_at_11_47_25_PM.png" alt="Screen_Shot_2017_07_28_at_11_47_25_PM" border="0"></a>
+
+Now we are ready to code!
